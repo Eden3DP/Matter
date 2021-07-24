@@ -13,7 +13,8 @@ TPU
 PETG
 
 
-Exotics
+
+# Exotics
 _______
 
 Nylon
@@ -22,7 +23,9 @@ Carbon Fiber
 
 Scented Filament (Aroma™) 
 
-Metallics
+
+
+# Metallics
 _________
 
 
