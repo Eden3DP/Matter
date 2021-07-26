@@ -21,6 +21,8 @@ Nylon
 
 Carbon Fiber
 
+Ceramic
+
 Scented Filament (Aroma™) 
 
 
